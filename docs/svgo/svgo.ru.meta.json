@@ -1,0 +1,14 @@
+{
+    "title": "SVGO",
+    "createDate": "03-12-2012",
+    "editDate": "24-06-2013",
+    "summary": "SVG Optimizer  — это инструмент для оптимизации векторной графики в формате SVG, написанный на Node.js.",
+    "thumbnail": "http://soulshine.in/svgo.svg",
+    "authors": ["belevich-kir"],
+    "tags": ["tools"],
+    "categories": ["optimizers/svgo"],
+    "translators": [""],
+    "url": "/docs/svgo/",
+    "type": "tools",
+    "slug": ""
+}
