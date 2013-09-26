@@ -6,7 +6,7 @@
     "thumbnail": "",
     "authors": ["belevich-kir"],
     "tags": ["tools"],
-    "categories": [{"name": "Optimizers/SVGO", "url": "optimizers/svgo"}],
+    "categories": ["optimizers/svgo"],
     "translators": [""],
     "url": "/docs/how-it-works/",
     "type": "tools",
