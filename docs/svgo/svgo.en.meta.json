@@ -1,5 +1,6 @@
 {
     "title": "SVGO",
+    "longTitle": "SVG Optimizer",
     "createDate": "23-11-2012",
     "editDate": "24-06-2013",
     "summary": "SVG Optimizer is a NodeJS-based tool for optimizing SVG vector graphics files.",
