@@ -7,7 +7,7 @@
     "thumbnail": "http://soulshine.in/svgo.svg",
     "authors": ["belevich-kir"],
     "tags": ["tools"],
-    "categories": [{"name": "Optimizers/SVGO", "url": "optimizers/svgo"}],
+    "categories": [{"name": "Optimizers/SVGO", "url": "optimizers/svgo", "order": "20/30"}],
     "translators": [""],
     "url": "/docs/svgo/",
     "type": "tools",
